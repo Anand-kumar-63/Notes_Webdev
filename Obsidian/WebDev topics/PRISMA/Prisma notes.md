@@ -145,25 +145,22 @@ Open the `prisma/schema.prisma` file.
 Code
 
 ```
-        datasource db {          provider = "postgresql" // or "mysql", "sqlite", "mongodb"          url      = env("DATABASE_URL")        }
+        datasource db { provider = "postgresql" // or "mysql", "sqlite", "mongodb"          url = env("DATABASE_URL") }
 ```
 
 - **Generator:** Ensure the Prisma Client generator is configured.
-
 Code
-
 ```
         generator client {          provider = "prisma-client-js"        }
 ```
-
 - **Define Models:** Create your database models within this file, representing your tables or collections.
-
 Code
-
 ```
-        model User { id  Int   @id @default(autoincrement())          email String  @unique          name  String?        }
+model User { 
+id  Int  @id @default(autoincrement())          
+email String  @unique  name  String? 
+}
 ```
-
 Database Connection String.
 
 Ensure your `.env` (or `.env.local`) file contains the `DATABASE_URL` environment variable with the correct connection string for your database. Generate Prisma Client.

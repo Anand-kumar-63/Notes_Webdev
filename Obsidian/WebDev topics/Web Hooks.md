@@ -6,9 +6,14 @@
 # Webhook end point configuration to listen to the Events 
 https://docs.svix.com/documenting-webhooks
 
+#youtube how to sync clerk authentication users with your own database nextjs
+https://www.youtube.com/watch?v=NgBxrIC1eHM
+
 # Your own webhooks formation 
 https://gemini.google.com/app/1ec7e4e93e486cbf
 
+# webhook response object structure 
+https://clerk.com/docs/guides/development/webhooks/overview#webhooks-overview?utm_source=hitesh-choudhary&utm_medium=youtube&utm_campaign=saas-template
 # Receivers API end point
 api/webhooks/register/route.ts
 ```js 
