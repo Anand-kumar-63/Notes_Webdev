@@ -54,6 +54,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "WebDev topics/NVM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NVM"
+            }
+          },
+          {
+            "id": "eeb156117183ce00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "WebDev topics/Web Hooks.md",
                 "mode": "source",
                 "source": false
@@ -63,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -224,34 +238,37 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fa110876d02c8652",
+  "active": "eeb156117183ce00",
   "lastOpenFiles": [
-    "Pasted image 20251030151730.png",
     "Javascript/Array.md",
-    "WebDev topics/power shell commands.md",
-    "Javascript",
-    "WebDev topics/NVM.md",
     "WebDev topics/Web Hooks.md",
-    "Pasted image 20251030141133.png",
+    "WebDev topics/PWA.md",
+    "WebDev topics/NEON DB AND POSTGRESQL.md",
+    "WebDev topics/NVM.md",
+    "WebDev topics/power shell commands.md",
+    "WebDev topics/Clerk Auth.md",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "WebDev topics/PRISMA/Prisma notes.md",
     "Projects/Loom.md",
+    "WebDev topics/PRISMA/Problems.md",
+    "WebDev topics/PRISMA/Relations.md",
+    "WebDev topics/PRISMA/Fields in Schema.md",
+    "Questions.md",
+    "Pasted image 20251030151730.png",
+    "Javascript",
+    "Pasted image 20251030141133.png",
     "Projects/Drawing 2025-10-20 01.00.59.excalidraw.md",
     "WebDev topics/Drawing 2025-07-03 17.21.00.excalidraw.md",
-    "WebDev topics/NEON DB AND POSTGRESQL.md",
-    "WebDev topics/Clerk Auth.md",
-    "WebDev topics/PRISMA/Fields in Schema.md",
-    "WebDev topics/PRISMA/Prisma notes.md",
-    "WebDev topics/PWA.md",
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
     "JAVA NOTES/Rules.md",
     "JAVA NOTES/Patterns/Rules to solve the pattern questions.md",
     "Solidity/Solidity.md",
-    "WebDev topics/PRISMA/Relations.md",
     "Untitled.base",
     "Pasted image 20251028203037.png",
     "WebDev topics/PRISMA/Pasted image 20251023155127.png",
-    "WebDev topics/PRISMA/Problems.md",
     "SQL/Basic concept.md",
     "Excalidraw/Drawing 2025-10-28 15.42.33.excalidraw.md",
     "Pasted image 20251027202607.png",
@@ -260,7 +277,6 @@
     "Pasted image 20251022120031.png",
     "Pasted image 20251021154401.png",
     "Pasted image 20251021153932.png",
-    "Pasted image 20251021153559.png",
     "WebDev topics/PRISMA",
     "Solidity/Drawing 2025-08-16 14.41.45.excalidraw.md",
     "Projects/n8n.canvas",
@@ -269,9 +285,6 @@
     "Solidity/Solidity Variables.md",
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
-    "JAVA NOTES/Recursion",
-    "WebDev topics",
-    "JAVA NOTES/Patterns"
+    "JAVA NOTES/Recursion"
   ]
 }
