@@ -2,7 +2,7 @@
 ## 🛑 Problem 2: The `title` Type (`any` vs `string`)
 In this line:
 TypeScript
-```
+```ts
 const {title} = await req.json();
 ```
 The `req.json()` method in Next.js's `NextRequest` returns a value of type `Promise<any>`. Therefore, TypeScript infers that `title` is of type **`any`** (unless configured otherwise).
@@ -13,16 +13,14 @@ However, your Prisma schema requires `title` to be a **`string`** (based on `tod
 
 ---
 ## 🛠️ The Corrected Code
-The most robust fix is to destructure the request body and explicitly **type the data** you expect to receive.
-TypeScript
-```
+The most robust fix is to Destructure the request body and explicitly **type the data** you expect to receive.
+
+```ts
 // 1. Define the expected shape of the request body
 interface CreateTodoRequestBody {
   title: string;
 }
-
 // ... inside your try block ...
-
 // 2. Explicitly cast the request body to the defined interface
 const body = (await req.json()) as CreateTodoRequestBody;
 const { title } = body; 
