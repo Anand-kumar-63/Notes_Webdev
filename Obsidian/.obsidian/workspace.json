@@ -151,16 +151,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/Type augumentation.md",
+                "file": "WebDev topics/Learnings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Type augumentation"
+              "title": "Learnings"
+            }
+          },
+          {
+            "id": "c288ddadba66b0b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebDev topics/PRISMA/Problems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Problems"
+            }
+          },
+          {
+            "id": "3e31f032a76c8f41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Async and Await.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Async and Await"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -321,40 +349,41 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d222b15e275e78db",
+  "active": "f28f50b295738343",
   "lastOpenFiles": [
-    "SQL/Count.md",
-    "Typescript/Type augumentation.md",
-    "WebDev topics/learning.md",
-    "Typescript",
+    "WebDev topics/PRISMA/Problems.md",
+    "Javascript/Async and Await.md",
+    "WebDev topics/PRISMA/Relations.md",
+    "WebDev topics/PRISMA/Fields in Schema.md",
+    "WebDev topics/PRISMA/Prisma notes.md",
+    "React/Hooks.md",
+    "WebDev topics/Clerk Auth.md",
     "WebDev topics/Learnings.md",
+    "WebDev topics/learning.md",
+    "VectorDatabase/VectorDB.md",
+    "Task for WebDevs --.md",
+    "problem statement.md",
+    "Innotech",
+    "Typescript/Type augumentation.md",
+    "SQL/Count.md",
+    "Typescript",
     "SQL/JOIN.md",
     "SQL/Basic concept.md",
     "SQL/Questions.md",
-    "Task for WebDevs --.md",
     "Implementation using nodejs.md",
-    "React/Hooks.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled 2.base",
     "Untitled 3.base",
     "React",
     "Projects/Loom.md",
-    "WebDev topics/PRISMA/Prisma notes.md",
-    "WebDev topics/PRISMA/Fields in Schema.md",
-    "WebDev topics/PRISMA/Relations.md",
-    "WebDev topics/PRISMA/Problems.md",
     "WebDev topics/Web Hooks.md",
-    "WebDev topics/Clerk Auth.md",
     "Javascript/Array.md",
     "JAVA NOTES/Rules.md",
     "JAVA NOTES/Recursion/Concept.md",
     "JAVA NOTES/Patterns/Rules to solve the pattern questions.md",
     "JAVA NOTES/J1 String/Declaration and Storage.md",
     "JAVA NOTES/J1 String/String Methods.md",
-    "Projects/Drawing 2025-10-20 01.00.59.excalidraw.md",
-    "WebDev topics/PWA.md",
-    "WebDev topics/NEON DB AND POSTGRESQL.md",
     "Untitled 5.base",
     "Untitled 4.base",
     "Pasted image 20251030151730.png",
@@ -368,7 +397,6 @@
     "Pasted image 20251022120031.png",
     "Pasted image 20251021154401.png",
     "Pasted image 20251021153932.png",
-    "WebDev topics/PRISMA",
     "Projects/n8n.canvas"
   ]
 }

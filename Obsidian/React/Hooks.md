@@ -175,6 +175,8 @@ function Example() {
 }
 ```
 ### 6. `useCallback`
+#readmore- https://react.dev/reference/react/useCallback
+
 - **Purpose:** Returns a **memoized callback function**. This prevents a function from being recreated on every render, which is crucial when passing callbacks to optimized child components that rely on reference equality (like those wrapped in `React.memo`).
 - **Syntax:** `const memoizedCallback = useCallback(() => { /* function body */ }, [dependencies]);`
 - **Code Example:**
@@ -255,3 +257,5 @@ There are two main rules you **must** follow when using React Hooks:
 |**✅ Correct (Inside a React Component)**|**❌ Incorrect (Inside a regular JS function)**|
 |---|---|
 |`jsx<br/>function MyComponent() {<br/> const [value, setValue] = useState(0); // ✅ OK<br/> // ...<br/>}`|`jsx<br/>function createCounter() {<br/> const [value, setValue] = useState(0); // ❌ BAD<br/> return { value, setValue };<br/>}`|
+
+

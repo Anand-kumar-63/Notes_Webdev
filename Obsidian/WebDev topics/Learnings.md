@@ -36,3 +36,12 @@ const newtodo = await client.todo.create({
 })
 ```
 By applying these changes, you resolve both the structural problem (`id` vs `userId`) and the type problem (`any` vs `string`), satisfying the complex type requirements of Prisma's `todoCreateInput`.
+
+
+
+# New URL constructor 
+  // The URL() constructor returns a newly created URL object representing the URL defined by the parameters.
+  const { searchParams } = new URL(req.url);
+ {
+ querparams= ""
+ }
