@@ -8,173 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69c966d82ad59e21",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled 3.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled 3"
-            }
-          },
-          {
-            "id": "49553600e2e12615",
+            "id": "4e8f039412b73584",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev topics/NVM.md",
+                "file": "React/Props.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NVM"
+              "title": "Props"
             }
           },
           {
-            "id": "a467c9bd02083ba3",
+            "id": "17d98d3dd41cc0f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev topics/power shell commands.md",
+                "file": "Tanstack/queries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "power shell commands"
+              "title": "queries"
             }
           },
           {
-            "id": "fa110876d02c8652",
+            "id": "0650f8926fbc481c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev topics/NVM.md",
+                "file": "ML class/ml.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NVM"
+              "title": "ml"
             }
           },
           {
-            "id": "eeb156117183ce00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev topics/Web Hooks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Web Hooks"
-            }
-          },
-          {
-            "id": "6c997eaf02828a7b",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled 3.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled 3"
-            }
-          },
-          {
-            "id": "683298dba8408e39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev topics/Learnings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Learnings"
-            }
-          },
-          {
-            "id": "e738c61095e7fdd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/Basic concept.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basic concept"
-            }
-          },
-          {
-            "id": "fefd4f536653fe33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/JOIN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JOIN"
-            }
-          },
-          {
-            "id": "2c7538a2202464a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev topics/learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "learning"
-            }
-          },
-          {
-            "id": "d222b15e275e78db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev topics/Learnings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Learnings"
-            }
-          },
-          {
-            "id": "c288ddadba66b0b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev topics/PRISMA/Problems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Problems"
-            }
-          },
-          {
-            "id": "3e31f032a76c8f41",
+            "id": "11b49d7b97fee177",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,9 +62,175 @@
               "icon": "lucide-file",
               "title": "Async and Await"
             }
+          },
+          {
+            "id": "9af80511904f4417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/time functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "time functions"
+            }
+          },
+          {
+            "id": "d261439daf25a68c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blockchian/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "ee742dee1978bb24",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Projectjan/Drawing 2025-11-09 00.37.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-09 00.37.31.excalidraw"
+            }
+          },
+          {
+            "id": "703be52b0eb0f87d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/time functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "time functions"
+            }
+          },
+          {
+            "id": "e6e089d82d6c1fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typescript/Type augumentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type augumentation"
+            }
+          },
+          {
+            "id": "103c5c7e55f0ce1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Typescript/Type Assertion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type Assertion"
+            }
+          },
+          {
+            "id": "fbcda1450020e28d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Loom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loom"
+            }
+          },
+          {
+            "id": "a1de586715c0926a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tailwindcss/Important properties.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Important properties"
+            }
+          },
+          {
+            "id": "11f142b360475822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/React Hook Form.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React Hook Form"
+            }
+          },
+          {
+            "id": "df8bcdb2bc2aa6c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Hydration in react.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hydration in react"
+            }
+          },
+          {
+            "id": "226ff255bafc10e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebDev topics/Task for WebDevs --.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task for WebDevs --"
+            }
+          },
+          {
+            "id": "9b0bb48bd8505fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projectjan/features.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "features"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -245,7 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 220.50714874267578
   },
   "right": {
     "id": "39812eb7df20cc21",
@@ -349,54 +391,54 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f28f50b295738343",
+  "active": "9b0bb48bd8505fe2",
   "lastOpenFiles": [
-    "WebDev topics/PRISMA/Problems.md",
-    "Javascript/Async and Await.md",
-    "WebDev topics/PRISMA/Relations.md",
-    "WebDev topics/PRISMA/Fields in Schema.md",
-    "WebDev topics/PRISMA/Prisma notes.md",
-    "React/Hooks.md",
-    "WebDev topics/Clerk Auth.md",
-    "WebDev topics/Learnings.md",
+    "WebDev topics/Multer and Cloudinary/Notes.md",
+    "WebDev topics/Task for WebDevs --.md",
+    "WebDev topics/Multer and Cloudinary",
     "WebDev topics/learning.md",
-    "VectorDatabase/VectorDB.md",
-    "Task for WebDevs --.md",
-    "problem statement.md",
-    "Innotech",
-    "Typescript/Type augumentation.md",
-    "SQL/Count.md",
-    "Typescript",
-    "SQL/JOIN.md",
-    "SQL/Basic concept.md",
-    "SQL/Questions.md",
-    "Implementation using nodejs.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "Untitled 2.base",
-    "Untitled 3.base",
-    "React",
+    "WebDev Notes/Web development notes.md",
+    "Devops/Topics.md",
+    "React/url.md",
+    "React/Hydration in react.md",
+    "React/React Hook Form.md",
+    "Projectjan/features.md",
+    "Projectjan/Drawing 2025-11-09 00.37.31.excalidraw.md",
+    "React/Zod.md",
+    "React/Pasted image 20251218205628.png",
+    "tailwindcss/Important properties.md",
     "Projects/Loom.md",
+    "tailwindcss",
+    "Projects/Drawing 2025-10-20 01.00.59.excalidraw.md",
+    "ShadcnComponents/Components.md",
+    "Typescript/Type Assertion.md",
+    "ShadcnComponents",
+    "Typescript/Type augumentation.md",
+    "Tanstack/queries.md",
+    "WebDev topics/Git pull and merge conflict.md",
     "WebDev topics/Web Hooks.md",
-    "Javascript/Array.md",
-    "JAVA NOTES/Rules.md",
-    "JAVA NOTES/Recursion/Concept.md",
-    "JAVA NOTES/Patterns/Rules to solve the pattern questions.md",
-    "JAVA NOTES/J1 String/Declaration and Storage.md",
-    "JAVA NOTES/J1 String/String Methods.md",
-    "Untitled 5.base",
-    "Untitled 4.base",
-    "Pasted image 20251030151730.png",
-    "Javascript",
-    "Pasted image 20251030141133.png",
-    "Pasted image 20251028203037.png",
-    "WebDev topics/PRISMA/Pasted image 20251023155127.png",
-    "Pasted image 20251027202607.png",
-    "SQL/Pasted image 20250705164318.png",
-    "Pasted image 20251023154805.png",
-    "Pasted image 20251022120031.png",
-    "Pasted image 20251021154401.png",
-    "Pasted image 20251021153932.png",
+    "WebDev topics/power shell commands.md",
+    "WebDev topics/NVM.md",
+    "WebDev topics/NEON DB AND POSTGRESQL.md",
+    "WebDev topics/PWA.md",
+    "VectorDatabase/VectorDB.md",
+    "WebDev topics/Clerk Auth.md",
+    "Javascript/Untitled.base",
+    "Nextjs",
+    "WebDev Notes",
+    "Java class notes",
+    "Pasted image 20251116175058.png",
+    "Pasted image 20251110181019.png",
+    "ML class",
+    "Devops/Pasted image 20251119010425.png",
+    "Devops/Pasted image 20251119005111.png",
+    "Devops/Pasted image 20251119005048.png",
+    "Devops/Pasted image 20251119005027.png",
+    "Devops/Pasted image 20251119005001.png",
+    "Devops/Pasted image 20251119003919.png",
+    "Devops/Pasted image 20251119003124.png",
+    "Untitled 1",
+    "Devops",
     "Projects/n8n.canvas"
   ]
 }

@@ -36,13 +36,9 @@ console.log("B: Calling getData."); // 2nd: Executes immediately after the funct
 getData();
 console.log("D: Continuing main thread execution."); // 3rd: Executes while the fetch is pending
 ```
-
 **Order of execution:** **A → B → D** (while the network request is pending) **→ C → E**.
 
-
-
 I'd be happy to explain more about `async` and `await` using your example! Think of them as a way to manage tasks that take time (like a network request) without freezing your entire program.
-
 Your example:
 JavaScript
 ```js
@@ -59,7 +55,6 @@ const fetchsubscriptionStatus = async () => {
 ## 🚦 The Analogy: Ordering Coffee ☕
 Imagine you are at a coffee shop (your JavaScript program), and the server (the **JavaScript runtime**) is taking your order.
 ### 1. `async` (The "Special Order" Tag)
-
 - The `async` keyword placed before `() => { ... }` transforms a normal function into an **asynchronous function**.
 - **Analogy:** When you place an order, the server puts a little **"Special Async Order"** tag on it. This tells the server, "This task (fetching data) might take a while, so don't just stand here waiting for the coffee to brew; go help other customers while this one is being prepared."
 - Crucially, an `async` function always returns a **Promise**, even if you don't explicitly write `return new Promise(...)`.

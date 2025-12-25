@@ -15,18 +15,19 @@
   - Second project
      - If you had to design an e-commerce app for a village with no stable internet & low-end devices, how would you let users browse & place orders offline, syncing data only when internet returns?
 
-- Third project
+ - Third project
       - Bluetooth connected messaging system 
       you can message someone from wherever you are using the bluetooth without any internet connection or any sim or wifi 
-  
+        
   -  Polymarket system 
       bid on anything you want 
   
   - Fourth project
     a extension that reads all your terms and condition and gives you brief about the terms and also warns you if something is fishy and tells suggest you to take some decsions regarding the policy 
-  
-  
-      
+
+ - fifth project 
+    Movie streaming platform where people usually collab and watch movies together on live stream kind of thing and they can chat about it..
+
       
        
 

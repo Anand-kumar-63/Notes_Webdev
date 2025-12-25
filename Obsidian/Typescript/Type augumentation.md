@@ -21,16 +21,14 @@ Library default type (imagine from `react-hot-toast`):
 `declare function toast(message: string): void;`
 But **you want**:
 `toast({ message: "Saved!", type: "success" });`
-So you **augment**:
+So you **augment** :
 ```ts
 // toast.d.ts 
 declare module "react-hot-toast" {   
-
 interface MyToastObject { 
 message: string;     
 type?: "success" | "error";   
 }    
-
 function toast(content: MyToastObject): void; }
 ```
 

@@ -1,0 +1,340 @@
+{
+  "main": {
+    "id": "193f4f3f4b5bc026",
+    "type": "split",
+    "children": [
+      {
+        "id": "0748afa5dcf472db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3bc02abf2d7eeb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI LMS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI LMS"
+            }
+          },
+          {
+            "id": "cd3cf30dd815e5e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web3/Harkirat/Rust.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rust"
+            }
+          },
+          {
+            "id": "a1e650dbf545da7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Requirements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Requirements"
+            }
+          },
+          {
+            "id": "4f679c02c03e6fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web3/Harkirat/Rust.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rust"
+            }
+          },
+          {
+            "id": "2e028f36df4ec03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web3/Harkirat/Rust memory Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rust memory Management"
+            }
+          },
+          {
+            "id": "49d44bfa16e51cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI LMS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI LMS"
+            }
+          },
+          {
+            "id": "03c277e2537d0e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brocode/wtf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wtf"
+            }
+          },
+          {
+            "id": "3f0d2f05616e402d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Web3/Images/Pasted image 20251209182029.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251209182029"
+            }
+          },
+          {
+            "id": "294f9185b9822a07",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Web3/Images/Pasted image 20251207000000.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251207000000"
+            }
+          },
+          {
+            "id": "8ad9a4aaad831245",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df61a882f4da8ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "274c6998541bd956",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09d4571bd660797d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fe0db8468e88a1c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bc6f4cc78d6e356c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218.5072784423828
+  },
+  "right": {
+    "id": "d6b05cf054f607a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "16a0be19e50506b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b727efde8459333",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI LMS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AI LMS"
+            }
+          },
+          {
+            "id": "410d163d69a74678",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI LMS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AI LMS"
+            }
+          },
+          {
+            "id": "25b985b37553f9e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4346d72e3bcf4aed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "746c795ce8a1033b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI LMS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AI LMS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "03c277e2537d0e12",
+  "lastOpenFiles": [
+    "Channels Yt/Untitled.md",
+    "Brocode/wtf.md",
+    "AI LMS.md",
+    "Channels Yt",
+    "Web3/Harkirat/Structs in Rust.md",
+    "Web3/Harkirat/Rust memory Management.md",
+    "Web3/Harkirat/Rust.md",
+    "kanishk/Notes.md",
+    "Pasted image 20251211230344.png",
+    "Pasted image 20251211230305.png",
+    "kanishk",
+    "Hackathons/Google Gemini.md",
+    "Hackathons/Requirements.md",
+    "Brocode",
+    "Untitled.canvas",
+    "screenshots.md",
+    "Web3/Images/Pasted image 20251210185040.png",
+    "Web3/Images/Pasted image 20251210184933.png",
+    "Web3/Images/Pasted image 20251209181906.png",
+    "Web3/Images/Pasted image 20251207000000.png",
+    "Web3/Images/Pasted image 20251209182029.png",
+    "Web3/Images/Ai powered raw data processing.md",
+    "Hackathons",
+    "Web3/Images/Pasted image 20251209231330.png",
+    "Web3/Images/Pasted image 20251209222351.png",
+    "Web3/Images/Pasted image 20251209215258.png",
+    "Web3/Images",
+    "Web3/Harkirat",
+    "Web3",
+    "mongodb.md",
+    "web technology/notes.md",
+    "web technology"
+  ]
+}

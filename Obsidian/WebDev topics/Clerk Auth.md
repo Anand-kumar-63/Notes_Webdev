@@ -1,10 +1,8 @@
 https://clerk.com/docs/reference/nextjs/clerk-middleware
-
 # Event driven Architecture 
 ![[Pasted image 20251027202607.png]]
 
 ![[Pasted image 20251028203037.png]]
-
 # Clerk UseSignUp hook 
 Readmore - 
 https://clerk.com/docs/reference/javascript/sign-up
@@ -12,13 +10,9 @@ https://clerk.com/docs/reference/javascript/sign-up
 # Clerk overview 
 Readmore - 
 https://clerk.com/docs/reference/nextjs/overview
-
 # ClerkClients Users object
-
 - The **`clerkClient.users`** object is part of the **Clerk Backend API** client (like for JavaScript/Next.js) and is used to **manage user accounts** programmatically. It provides methods to perform server-side operations on users, such as creating, retrieving, updating, and deleting user records.
-
 ## Key Functions of `clerkClient.users`
-
   The `clerkClient.users` object exposes various methods to interact with your application's user base in the backend:
 - **`createUser(params)`**: Creates a new user in your Clerk application.
 - **`getUser(userId)`**: Retrieves a specific **User object** by its ID.
@@ -26,7 +20,6 @@ https://clerk.com/docs/reference/nextjs/overview
 - **`updateUser(userId, params)`**: Modifies properties of an existing user.
 - **`deleteUser(userId)`**: Permanently deletes a user record.
 - **`updateUserMetadata(userId, params)`**: Specifically updates the `publicMetadata` or `privateMetadata` fields of a user.
-
 ### The Clerk **User Object**
 The methods in `clerkClient.users` often return or operate on a **User object**, which holds all the information for a single user, including:
 - **Authentication Identifiers**: Email addresses, phone numbers, or a username.
@@ -35,9 +28,7 @@ The methods in `clerkClient.users` often return or operate on a **User object**,
     - **`publicMetadata`**: Custom data accessible from both the Frontend and Backend APIs.
     - **`privateMetadata`**: Custom data only accessible from the Backend API.
 - **Account Management Data**: Associated external accounts (like Google or GitHub), organization memberships, sessions, and multi-factor authentication details (like TOTP or backup codes).
-
 - https://clerk.com/docs/guides/users/managing#in-the-clerk-dashboard
-
 # Clerk user methods 
 Let’s go deep into **Clerk’s backend methods** — the ones you’ll use in Node.js, Express, or Next.js **API routes** (not in React components).
 
